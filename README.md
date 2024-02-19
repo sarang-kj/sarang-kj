@@ -5,18 +5,18 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/sarang kj?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+  <a href="https://www.linkedin.com/in/sarang-kj-1037011a1/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-youtube-URL">
+  <a href="https://www.youtube.com/channel/UCkK4T10Q5iIn3-8gCBSoIoQ">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="your-twitter-URL">
+  <a href="https://twitter.com/kjsarang__">
     <img src="https://img.shields.io/badge/twitter-blue?style=for-the-badge&logo=twitter&logoColor="white" alt="Twitter Badge"/>
   </a>
 </div>
 <h1 align="center">
-  hey there
+  Hey there i am Sarang kj
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 <div align="center">
@@ -24,7 +24,7 @@
 </div>
 ### :man_technologist: About Me :
 
-I am a BTech second year student<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+I am a second year electronics and communication student<img 🔌 width="30"> from India.
 
 - :seedling: machine learning enthusiasist
 

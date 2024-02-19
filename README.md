@@ -24,7 +24,7 @@
 </div>
 ### :man_technologist: About Me :
 
-I am a second year electronics and communication student<img 🔌 width="30"> from India.
+I am a second year electronics and communication student🔌 from India.
 
 - :seedling: machine learning enthusiasist
 
@@ -40,3 +40,4 @@ I am a second year electronics and communication student<img 🔌 width="30"> fr
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+
